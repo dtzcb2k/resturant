@@ -104,7 +104,7 @@ public class ChefPG extends JFrame implements OrderList.Listener{
 		tableNumber.add(8);
 		
 		
-		//testing
+		/*testing
 		JButton btn = new JButton("addsth");
 		
 		btn.addActionListener(new ActionListener() {
@@ -115,7 +115,7 @@ public class ChefPG extends JFrame implements OrderList.Listener{
 		btn.setBounds(200, 150, 87, 23);
 		panel.add(btn);
 		
-		//end of testing
+		end of testing*/
 			
 		
 		
